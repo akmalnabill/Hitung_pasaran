@@ -12,7 +12,10 @@ dari dari ponpes darussaadah
 1. unduh aplikasi dari github release di bawah
 2. install aplikasi cari pasaran
 3. buka aplikasi cari pasaran
-4. masukan tanggal
+4. masukan tanggal bulan dan tahun yg akan anda cari
+![Screenshot Aplikasi](Screenshot_20260415_014714_cari%20pasaran.jpg)
+5. tekan tombol [HITUNG HARI & PASARAN]
+
 
 
 
