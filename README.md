@@ -15,6 +15,10 @@ dari dari ponpes darussaadah
 4. masukan tanggal bulan dan tahun yg akan anda cari
 ![Screenshot Aplikasi](Screenshot_20260415_014714_cari%20pasaran.jpg)
 5. tekan tombol [HITUNG HARI & PASARAN]
+![Screenshot Cari Pasaran](Screenshot_20260415_015010_cari%20pasaran.jpg)
+6. jika anda ingin melihat lengkap rumus penghitungan dan alur nya
+   tekan tombol "Detai perhitungan" dan bamm muncul semua rumus dgn
+   alur yg jelas
 
 
 
