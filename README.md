@@ -19,9 +19,15 @@ dari dari ponpes darussaadah
 6. jika anda ingin melihat lengkap rumus penghitungan dan alur nya
    tekan tombol "Detai perhitungan" dan bamm muncul semua rumus dgn
    alur yg jelas
+![Screenshot Preview](Screenshot_20260415_015032_cari%20pasaran.jpg)
+## melalui web interface 
+cukup masuk ke link https://caripasaranbytnynbl.netlify.app/ lalu lakukan langkah² di atas
+## perbaikan bug 
+selama saya penggunaan saya dalam versi uji coba saya blm menemukan eror ataupun bug lain tetapi jika anda menemukan eror atau kendala lain dapat melaporkan ke saya lewat github
 
 
 
 
 
- By: akmalnbl
+
+ By: akmalnbl [ponpes darul ulum]
