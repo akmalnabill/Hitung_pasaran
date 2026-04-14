@@ -6,6 +6,15 @@ dari dari ponpes darussaadah
 •memudahkan untuk menghitung atau mencarai hari pasaran
 •mengetahui alur penghitungan nya karena di sertai rumus lengkap di bawah nya
 ## dasar rumus
+![Rumus Kitab](20260414_131147.jpg)
+
+## cara menggunakan
+1. unduh aplikasi dari github release di bawah
+2. install aplikasi cari pasaran
+3. buka aplikasi cari pasaran
+4. masukan tanggal
+
+
 
 
  By: akmalnbl
